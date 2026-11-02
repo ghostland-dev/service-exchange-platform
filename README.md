@@ -1,30 +1,38 @@
-# Service exchange platform
+# Service Exchange
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Platform for exchanging services between users.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/shopsmou-gmailcoms-projects/v0-service-exchange-platform)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/mZombLvY70A)
+## Features
 
-## Overview
+- Services and exchanges REST API
+- Notifications
+- Admin and analytics
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## Tech Stack
 
-## Deployment
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- shadcn/ui (Radix UI)
 
-Your project is live at:
+## Getting Started
 
-**[https://vercel.com/shopsmou-gmailcoms-projects/v0-service-exchange-platform](https://vercel.com/shopsmou-gmailcoms-projects/v0-service-exchange-platform)**
+```bash
+git clone https://github.com/ghostland-dev/service-exchange-platform.git
+cd service-exchange-platform
+npm install
+npm run dev
+```
 
-## Build your app
+Other scripts:
 
-Continue building your app on:
+- `npm run build`: next build
+- `npm run lint`: next lint
 
-**[https://v0.app/chat/projects/mZombLvY70A](https://v0.app/chat/projects/mZombLvY70A)**
+## Author
 
-## How It Works
+**Ismail.M**, Software Engineer & DevOps
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+- GitHub: [@ghostland-dev](https://github.com/ghostland-dev)
+- Website: [ismail-mouyahada.com](https://www.ismail-mouyahada.com)
